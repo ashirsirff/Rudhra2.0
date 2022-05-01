@@ -47,7 +47,7 @@ bash <(curl -L https://t.ly/tHxh)
   click to fork the git into your account
  Click [FORK](https://github.com/prince-rudh/Rudhra2.0/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/ashirsirff/Rudhra2.0 copy this url and change Prince-Rudh with your github username and click go<br>
 
 ----
 
